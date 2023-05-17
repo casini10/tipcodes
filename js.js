@@ -1,4 +1,4 @@
-console.log("HELLO, WORLD");
-console.log("HELLO, WORLD");
-console.log("HELLO, WORLD");
-console.log("HELLO, WORLD");
+
+let a=5;
+ a=15;
+console.log(a);
